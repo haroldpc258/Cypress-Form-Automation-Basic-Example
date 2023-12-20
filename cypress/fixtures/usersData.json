@@ -1,0 +1,13 @@
+[
+  {
+    "name": "John Doe",
+    "email": "example@gmail.com",
+    "phone": "8804658",
+    "gender": "Female",
+    "experience": "3",
+    "skills": ["API testing", "DB testing"],
+    "tool": "Cypress",
+    "details": "Some details"
+  }
+]
+
