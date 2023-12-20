@@ -25,7 +25,7 @@ You will need:
 
 ### Running the Tests
 
-To run the tests, firstable you need to avigate to the project root and execute the next command in the terminal in order to install all the necessary dependencies:
+To run the tests, firstable you need to navigate to the project root and execute the next command in the terminal in order to install all the necessary dependencies:
 
     npm install
 Then you can execute the following command to execute the tests cases:
